@@ -1,5 +1,6 @@
 #! /usr/bin/env bash
 
+set -x
 set -eu -o pipefail
 
 # Get the directory of this file inside pre-commit cache
